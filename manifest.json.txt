@@ -1,0 +1,20 @@
+{
+  "name": "نور المسلم - عبدالله الشيباني",
+  "short_name": "نور المسلم",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#061410",
+  "theme_color": "#C8A46A",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
